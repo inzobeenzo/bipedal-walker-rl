@@ -1,0 +1,10 @@
+# Models and artifacts
+*.zip
+*.pkl
+*.mp4
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
