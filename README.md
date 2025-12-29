@@ -30,6 +30,7 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
 
 Experiments were run in Google Colab using CPU execution.  
 Paths referencing Google Drive can be adapted for local execution.
+Code structure generated with assistance of LLMs.
 
 ## References
 
