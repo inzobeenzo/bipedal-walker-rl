@@ -5,7 +5,7 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
 
 ## Files
 
-- `AISF_Application.ipynb`  
+- `AISF.ipynb`  
   Main project notebook. Includes:
   - PPO training
   - Reward shaping ablations
@@ -13,7 +13,7 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
   - Evaluation and plots
   - Hardcore environment experiments
 
-- `AISF_Application_SAC.ipynb`  
+- `AISF_SAC.ipynb`  
   Exploratory notebook with alternative RL approaches and preliminary ideas
   that were used in the final model.
 
