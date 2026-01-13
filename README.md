@@ -16,9 +16,6 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
 - `AISF_SAC.ipynb`  
   Exploratory notebook with alternative RL approaches and preliminary ideas
   that were used in the final model.
-
-## Notes
-  Model worked in normal environment, but failed in hardcore.
   
 ## Requirements
 
@@ -34,6 +31,7 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
 Experiments were run in Google Colab using CPU execution.  
 Paths referencing Google Drive can be adapted for local execution.      
 Code structure generated with assistance of LLMs.
+Model worked in normal environment, but failed in hardcore.
 
 ## References
 
