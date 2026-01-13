@@ -17,6 +17,9 @@ BipedalWalker-v3 and BipedalWalkerHardcore-v3 environments using PPO as well as 
   Exploratory notebook with alternative RL approaches and preliminary ideas
   that were used in the final model.
 
+## Notes
+  Model worked in normal environment, but failed in hardcore.
+  
 ## Requirements
 
 - Python 3.9+
